@@ -1,0 +1,10 @@
+.underline:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.pagenation{
+    background:#bdc3c7;
+    color:#bdc3c7;
+    
+}
